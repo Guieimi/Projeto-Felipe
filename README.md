@@ -1,7 +1,8 @@
 # Projeto-Felipe
 
-- Nome da empresa
-- Ramo da empresa
+- Story.Polaroid
+- 
 - Os serviços que a empresa oferecerá e as tecnologias que serão utilizadas.
 -
-Nome dos participantes
+GUilherme Ribeiro Araujo Dos Santos - Ra - 2223205236
+
